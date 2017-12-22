@@ -1,0 +1,5 @@
+grant{
+    permission java.net.SocketPermission "127.0.0.1", "accept,connect,resolve";
+    permission java.util.PropertyPermission "user.dir", "read";
+    permission java.io.FilePermission "src/records.txt", "read,write";
+  };
