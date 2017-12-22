@@ -1,0 +1,3 @@
+abandon:drops, dumps, ditches, discards, deserts, leaves, ends, gives up, looses, empties, vacates, resigns, quits
+success:victory, win, accomplishment
+c:D
